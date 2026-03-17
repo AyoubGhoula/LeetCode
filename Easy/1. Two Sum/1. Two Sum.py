@@ -4,3 +4,7 @@ class Solution:
             index=target-nums[i]
             if index in nums and nums.index(index)!= i :
                 return [nums.index(index),i]
+            
+
+say hello
+# # n=int(input())
